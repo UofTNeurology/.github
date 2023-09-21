@@ -1,6 +1,5 @@
 # Welcome to the AI4QI Lab
-Khosravani Lab, Using AI for quality improvement in neurology
-Our lab focuses on using machine learning for Quality Improvement in stroke and other neurologic disorders. This is Dr. Khosravani's lab site, as part of the Division of Neurology at the University of Toronto. Our lab's work is dedicated to Quality Improvement (QI) in several areas:
+Our lab focuses on using machine learning for Quality Improvement in neurology and stroke care. The AI4QI Lab, PI: Dr. Houman Khosravani, is located in Toronto, Division of Neurology. Our lab's work is dedicated to Quality Improvement (QI) in several current areas of research:
 
 * AI4QI - machine learning for bolstering current standards of care. We are leveraging machine-learning to enhance QI within acute stroke care in the inpatient setting. Our current work is focused on using voice as a biomarker - we call this Sonic Diagnosis.
 * stroke resuscitation - our lab termed the work "stroke resuscitation", developed the protected code stroke protocol, defined the use of crisis resource management in stroke, and thus our focus is education and quality improvement during the code stroke process. We use CRM pricinples and have an active code stroke simulation program. This also includes our efforts within NICE (Neurovascular Innovations CollaborativE) as listed below.
