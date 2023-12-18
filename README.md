@@ -1,4 +1,4 @@
-# Welcome to the ML4QI Lab
+# Welcome to the ML4QI Lab, [Stroke Innovation Lab](https://strokeinnovationlab.ca/)
 Our lab focuses on using machine learning for Quality Improvement in neurology and stroke care. The ML4QI Lab, PI: Dr. Houman Khosravani, is located in Toronto, Division of Neurology. Our lab's work is dedicated to Quality Improvement (QI) in several current areas of research:
 
 * ML4QI - machine learning for bolstering current standards of care. We are leveraging machine-learning to enhance QI within acute stroke care in the inpatient setting. Our current work is focused on using voice as a biomarker - we call this Sonic Diagnosis.
