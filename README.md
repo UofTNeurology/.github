@@ -46,3 +46,6 @@ Members of the lab also are involved in educational initiatives, a podcast on st
 * Despite significant advancements in stroke care, a considerable number of patients still grapple with substantial morbidity and mortality. Recognizing this, we advocate for the routine integration of palliative care into stroke treatment. Compassionate and effective care forms the bedrock of the philosophy we advocate for in terms of expanding the confluence of palliative medicine and stroke care.
 
 If you are a student with an interest in QI and experienced in research, or if you are an engineering or CS or MD student interested in clinical applications of machine learning in neurology please reach out.
+
+## Disclaimer
+This GitHub repository is for educational purposes only and does not represent expert medical judgment or assessment. The tools and information provided herein are not intended for clinical use and should not be relied upon for medical decision-making. No duty of care is assumed by the contributors, and all individuals associated with this project are absolved of any medical-legal burden. The views and work expressed in this repository do not reflect the official stance of any affiliated academic/other institutions or hospitals where we work or study. Use at your own risk.
