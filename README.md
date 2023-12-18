@@ -11,7 +11,7 @@ Members of the lab also are involved in educational initiatives, a podcast on st
 * We are also exploring the intersection of machine learning and quality improvement, utilizing voice-based technologies to refine our methods. We have expertise in deep-learning and processing of audio signals.
 * Our pursuit of excellence extends to the cutting-edge field of machine learning. With support from T-CAIREM and SHSC, we are leveraging bedside physiologic recordings to improve the quality of acute stroke care.
 
-**Machine learning as applied to quality improvement in stroke**
+* **Machine learning as applied to quality improvement in stroke**
     * 2024
         * Lab Members (continuing and joining):
             * Dr. A. Balachandar, Neurology, U of T, ML4QI in Stroke
